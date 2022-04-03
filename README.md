@@ -14,3 +14,8 @@ Eye pain and dry eyes are the result.
 It states, that every 20 minutes one should focus something, that it (at least) 20 feet away for 20 seconds.
 
 While not hard or time-consuming to implement in one's daily life and while working well with likes of the [pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique), it can be merely forgotten until the physical consequences are encountered.
+
+# Usage
+
+Simply execute the script by running \
+`./blink-break`
