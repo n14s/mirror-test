@@ -17,5 +17,8 @@ While not hard or time-consuming to implement in one's daily life and while work
 
 # Usage
 
-Simply execute the script by running \
-`./blink-break`
+Simply make the script executable by running \
+`chmod +x blink-break`, \
+ \
+then execute the script by running \
+`./blink-break`.
