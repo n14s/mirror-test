@@ -15,6 +15,10 @@ It states, that every 20 minutes one should focus something, that it (at least) 
 
 While not hard or time-consuming to implement in one's daily life and while working well with likes of the [pomodoro technique](https://francescocirillo.com/pages/pomodoro-technique), it can be merely forgotten until the physical consequences are encountered.
 
+# Goal
+
+Get reminded in regular time-intervals to rest your eyes, for example every 20 seconds according to the 20-20-20 rule. \
+
 # Usage
 
 Simply make the script executable by running \
