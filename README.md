@@ -26,3 +26,11 @@ Simply make the script executable by running \
  \
 then execute the script by running \
 `./blink-break`.
+
+# Autostart
+
+It can be liberating not having to start the script on every login.\
+
+Let your machine start this script on boot, by adding it to autostart in the system settings. \
+
+In Ubuntu, set autostart for blink-break under: setting manager > session and startup > application autostart.
