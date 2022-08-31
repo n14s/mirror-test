@@ -2,7 +2,7 @@
 
 Give your eyes a break. \
 A small script to remember to rest your eyes for a while. \
-Look outside, there's a bird sitting in the tree.
+Look outside. There's a bird sitting in the tree.
 
 # Motivation
 
